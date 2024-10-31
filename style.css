@@ -210,6 +210,11 @@ body {
     .client-image {
         display: none;
     }
+    
+    .food-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
 
 
     .subscribe-section {
